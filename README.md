@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Lucas Medina  
+# ¡Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Soy Lucas Medina  
 
 💻 **Desarrollador Web | Estudiante de Análisis de Sistemas**  
 Apasionado por la tecnología, el desarrollo de software y la mejora continua de procesos. Me gusta aprender nuevas herramientas, aplicar buenas prácticas y colaborar en proyectos que generen impacto.
